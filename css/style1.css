@@ -1,0 +1,73 @@
+a.quicknav {
+	font-size: 10px;
+	text-decoration: none;
+}
+a.th {
+	font-size: 10px;
+	color=#ffffff;
+	text-decoration: none;
+}
+th.th2 {
+	text-align=right;
+}
+a.td {
+	font-size: 10px;
+	color=#000000;
+	text-decoration: none;
+}
+th {
+	text-align: left;
+}
+body {
+	font-family: Arial, Helvetica, Geneva, sans-serif;
+}
+table {
+	font-size: 12px;
+	font-family : Verdana, Helvetica, Geneva, sans-serif;
+}
+p {
+	font-size: 12px;
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+h3 {
+	font-family : Arial, Helvetica, Geneva, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+h4 {
+	font-family : Tahoma, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	margin-top: 12px;
+	margin-bottom: 3px;
+}
+ul {
+	font-size: 11px;
+	margin-top: 6px;
+	margin-bottom: 9px;
+}
+
+/*
+     FILE ARCHIVED ON 21:43:40 Jul 01, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:37:05 Jul 13, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 140.754
+  exclusion.robots: 0.134
+  exclusion.robots.policy: 0.122
+  RedisCDXSource: 0.652
+  esindex: 0.01
+  LoadShardBlock: 117.433 (3)
+  PetaboxLoader3.resolve: 125.892 (3)
+  PetaboxLoader3.datanode: 53.816 (4)
+  CDXLines.iter: 18.328 (3)
+  load_resource: 72.119
+*/
